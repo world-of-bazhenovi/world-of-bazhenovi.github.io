@@ -1,16 +1,8 @@
-﻿body 
-{
-background-image: url(img.jpg);
-background-repeat: no-repeat;
-background-position: center top;
-}
-
-ul 
+﻿ul 
 {
 list-style: none;
 margin: 0; 
 padding-left: 0; 
-color: white;
 font-size: 18px;
 }
 
@@ -20,8 +12,14 @@ display: inline;
 padding-left: 20%;
 }
 
+div
+{
+font-size: 24px;
+}
+
 a 
 {
 text-decoration: none; 
-color: white;
+color: black;
 }
+
