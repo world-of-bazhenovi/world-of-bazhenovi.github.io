@@ -36,8 +36,8 @@ position: absolute;
 
 .name
 {
-bottom: 50%;
-left: 31%;
+top: 200px;
+left: 390px;
 width: 500px;
 font-size: 60px;
 letter-spacing: 10px; 
